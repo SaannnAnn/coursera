@@ -1,2 +1,2 @@
-# coursera
+# basic front end
 little lemon
